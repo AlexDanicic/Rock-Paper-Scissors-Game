@@ -10,7 +10,7 @@ const getUserChoice = userInput => {
   
   // test is the input working
   console.log(getUserChoice('Paper'));
-  //this test shoul fail!s
+  //this test should fail!
   console.log(getUserChoice('Fork')); 
   
   // computer choice
